@@ -1,3 +1,24 @@
+# glitch-teachablemachine-responsivevoice-image-process 🐳
+
+![License](https://img.shields.io/github/license/tquangdo/glitch-teachablemachine-responsivevoice-image-process?color=f05340)
+![demo](demo.png)
+
+## run
+
+### deploy
+- copy paste:
+1. responsivevoice: `index.html: <script src="https://code.responsivevoice.org/responsivevoice.js?key=XXX"></script>`
+![responsivevoice](responsivevoice.png)
+2. teachablemachine: `index.html:`
+```html
+<script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs@1.3.1/dist/tf.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/@teachablemachine/image@0.8/dist/teachablemachine-image.min.js"></script>
+```
+![teachablemachine](teachablemachine.png)
+
+### run on browser
+- `https://ai-ggvoice-dotq.glitch.me/`
+
 Welcome to Glitch
 =================
 
