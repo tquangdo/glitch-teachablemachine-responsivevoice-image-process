@@ -1,6 +1,6 @@
 # glitch-teachablemachine-responsivevoice-image-process 🐳
 
-![License](https://img.shields.io/github/license/tquangdo/glitch-teachablemachine-responsivevoice-image-process?color=f05340)
+[![Report an issue](https://img.shields.io/badge/Support-Issues-green)](https://github.com/tquangdo/glitch-teachablemachine-responsivevoice-image-process/issues/new)
 ![demo](demo.png)
 
 ## run
