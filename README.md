@@ -7,7 +7,8 @@
 
 ### deploy
 - copy paste:
-1. responsivevoice: `index.html: <script src="https://code.responsivevoice.org/responsivevoice.js?key=XXX"></script>`
+1. responsivevoice: `index.html:`
+- `<script src="https://code.responsivevoice.org/responsivevoice.js?key=XXX"></script>`
 ![responsivevoice](responsivevoice.png)
 2. teachablemachine: `index.html:`
 ```html
